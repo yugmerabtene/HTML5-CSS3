@@ -1,3 +1,5 @@
+Bien sûr, je vais fournir des explications plus détaillées avec des exemples plus complets pour chaque partie du Chapitre 1.
+
 ### 1.1 Introduction à HTML
 
 HTML (Hypertext Markup Language) est le langage standard utilisé pour créer des pages web. Il s'agit d'un langage de balisage qui structure le contenu de la page en utilisant des balises. Chaque balise encadre une partie spécifique du contenu et peut être vue comme une instruction pour le navigateur sur la façon dont cette partie doit être affichée.
@@ -38,4 +40,4 @@ Les attributs HTML fournissent des informations supplémentaires sur les balises
 
 L'attribut `alt` est utilisé pour fournir une description textuelle de l'image, ce qui est utile pour l'accessibilité.
 
-.
+Ces exemples démontrent comment utiliser les balises HTML pour structurer le contenu de la page. Explorez davantage le site W3Schools pour des exemples détaillés et une documentation approfondie sur chaque balise et attribut HTML.
