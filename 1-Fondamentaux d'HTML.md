@@ -1,4 +1,3 @@
-Bien sûr, voici le contenu que vous pouvez utiliser pour votre fichier Markdown (README.md) sur GitHub en reprenant les informations fournies précédemment :
 
 ```markdown
 # Chapitre 1: Fondamentaux d'HTML
