@@ -63,5 +63,3 @@
    - 14.1 Contenu légal Mentions Légales
    - 14.2 Conditions d'utilisation
    - 14.3 Politique de confidentialité
-
-
