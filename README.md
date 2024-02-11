@@ -1,5 +1,3 @@
-Bien sûr, voici la version corrigée avec une numérotation cohérente :
-
 **Chapitre 1: Fondamentaux d'HTML**
   - 1.1 Introduction à HTML
   - 1.2 Éditeurs HTML
