@@ -65,12 +65,9 @@
    - 14.3 Politique de confidentialité
 
 
+# DEBUT DU COURS #
 
 
-
-Bien sûr, voici le contenu que vous pouvez utiliser pour votre fichier Markdown (README.md) sur GitHub en reprenant les informations fournies précédemment :
-
-```markdown
 # Chapitre 1: Fondamentaux d'HTML
 
 ## 1.1 Introduction à HTML
@@ -116,5 +113,5 @@ L'attribut `alt` est utilisé pour fournir une description textuelle de l'image,
 Ces exemples démontrent comment utiliser les balises HTML pour structurer le contenu de la page. Explorez davantage le site [W3Schools](https://www.w3schools.com/html/default.asp) pour des exemples détaillés et une documentation approfondie sur chaque balise et attribut HTML.
 ```
 
-Vous pouvez copier ce contenu dans votre fichier README.md sur GitHub. Assurez-vous de préserver la syntaxe Markdown pour un affichage correct sur GitHub.
+
 
