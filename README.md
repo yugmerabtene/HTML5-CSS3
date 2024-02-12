@@ -10,6 +10,7 @@
    - 2.2 Balise `<head>` et balise `<meta>`
    - 2.3 Organisation sémantique des sections avec les balises `<article>`, `<section>`, `<nav>`, `<header>`, `<footer>`, etc.
    - 2.4 Éléments de bloc et en ligne en HTML
+   - 2.5 Unités de mesure px, rem, em, pourcentage...
 
 **Chapitre 5: Organisation de Contenu**
    - 5.1 Tableaux HTML
